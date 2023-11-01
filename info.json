@@ -1,0 +1,13 @@
+{
+	"name": "expensive-night-vision",
+	"version": "0.1.0",
+	"factorio_version": "1.1",
+	"title": "Expensive Night Vision",
+	"author": "Mazor",
+	"contact": "not.a.valid.email.address@example.com",
+	"homepage": "",
+	"description": "Makes night vision eat a lot more power. Good for mods that add long, dark nights as a compromise between default night vision that trivializes them and no night vision at all.",
+	"dependencies": [
+		"base >= 1.1.0"
+	]
+}

@@ -1,0 +1,1 @@
+Expensive night vision mod. Makes night vision eat a lot more power. Good for mods that add long, dark nights as a compromise between default night vision that trivializes them and no night vision at all.
